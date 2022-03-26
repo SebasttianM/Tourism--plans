@@ -10,7 +10,6 @@ import Button from "@mui/material/Button";
 import DeleteIcon from "@mui/icons-material/Delete";
 import axios from "axios";
 import { url } from "../helpers/url";
-import getData from "../App"
 
 const theme = createTheme({
   components: {
